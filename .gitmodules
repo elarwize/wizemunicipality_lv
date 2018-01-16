@@ -1,0 +1,6 @@
+[submodule "hugo-icon"]
+	path = hugo-icon
+	url = https://github.com/SteveLane/hugo-icon
+[submodule "themes/hugo-icon"]
+	path = themes/hugo-icon
+	url = https://github.com/SteveLane/hugo-icon
