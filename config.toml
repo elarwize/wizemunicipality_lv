@@ -11,7 +11,7 @@ title = "My Awesome Title"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "wizehugo/themes/hugo-icon/static/images/hero_bg.jpg"
   title = "Create awesome chatbots with wize ai"
   description = "Make your customers feel special"
 
