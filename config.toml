@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = "https://loving-johnson-b4b63a.netlify.com/"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "Wize AI"
 
 # Metadata
 [params]
