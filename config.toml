@@ -17,8 +17,8 @@ title = "Wize AI"
 
 # Navigation section
 [params.nav]
-  mission = "Our Mission"
-  services = "Services"
+  mission = "Who is WizeAI"
+  services = "What can we do for you"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
