@@ -53,14 +53,6 @@ title = "Wize AI"
     title = "Value"
     subtitle = "Bringing the best out in people."
     description = "<p> </p><ul class='checked'><li>We will help your employees focus on the things they are best at.</li><li>Your team will spend less time on meaningless tasks and focus on bringing better value to your customers.</li><li>Customers will have access to 24/7 customer service.</li><li>Customers will be promted to enter all needed information so there will be less time spent on tedious long emails or calls.</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
-<!--
-  [[params.mission.item]]
-    weight = 3
-    name = "strategy"
-    title = ""
-    subtitle = ""
-    description = "<p>Customers will get help 24/7 with guidance to phrase their requests better. They will be promted to enter all needed information so there will be less need for tedious long emails or calls.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
--->
 
 # Services section
 [params.services]
