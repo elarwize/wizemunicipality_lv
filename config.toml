@@ -67,17 +67,17 @@ title = "Wize AI"
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  description = "We provide a range of services for virtual agents based on different platforms according to your needs."
 
   [[params.services.item]]
-    icon = "icon-present"
-    title = "Web Development"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-speech"
+    title = "Conversation design"
+    description = "Mapping the needs of your customers and designing the flow of the conversation accordingly."
 
   [[params.services.item]]
-    icon = "icon-eye"
-    title = "Retina Ready"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    icon = "icon-wrench"
+    title = "Agent building"
+    description = "Building the agent on the chosen platform. Giving the agent it's own character according to your companies needs."
 
   [[params.services.item]]
     icon = "icon-magic-wand"
