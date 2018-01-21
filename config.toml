@@ -45,7 +45,7 @@ title = "Wize AI"
     name = "marketing"
     title = "About us"
     subtitle = "Bringing stellar customer experience to the market."
-    description = "<p>Wize AI designs, develops and trains custom AI chatbots and virtual agents. Chatbots and voice artificial agents are intuitive to use and can be implemented in fields like e-commerce, customer support, finance, hospitality, marketing automation etc</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>Wize AI designs, develops and trains custom AI chatbots and virtual agents. Chatbots and voice artificial agents are intuitive to use and can be implemented in fields like e-commerce, customer support, finance, hospitality, marketing automation etc</p><ul class='checked'><li>Multiple platforms</li><li>Integrations with other business systems</li><li>Personal approach to your needs</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
