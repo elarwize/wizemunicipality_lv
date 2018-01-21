@@ -1,13 +1,13 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
 baseURL = "https://loving-johnson-b4b63a.netlify.com/"
-languageCode = "en-AU"
+languageCode = "en-EN"
 title = "Wize AI"
 
 # Metadata
 [params]
   author = "Your name"
-  description = "Cool description"
+  description = "Virtual assistants"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
@@ -147,11 +147,11 @@ title = "Wize AI"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  description = "We are a group of innovators with many years of experience with brining automation and software to organisations."
 
   [[params.team.item]]
     name = "Marcos"
-    position = "Chief legend"
+    position = "Founder"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/person1.jpg"
     facebook = "#"
@@ -163,7 +163,7 @@ title = "Wize AI"
 
   [[params.team.item]]
     name = "Elar"
-    position = "Chief overlord"
+    position = "Founder"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/person2.jpg"
     facebook = "#"
@@ -174,7 +174,7 @@ title = "Wize AI"
 
   [[params.team.item]]
     name = "Anneli"
-    position = "Chief jedi"
+    position = "Founder"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/person3.jpg"
     facebook = "#"
