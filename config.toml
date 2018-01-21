@@ -17,8 +17,8 @@ title = "Wize AI"
 
 # Navigation section
 [params.nav]
-  mission = "Who is WizeAI"
-  services = "What can we do for you"
+  mission = "About us"
+  services = "Services"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
@@ -43,14 +43,14 @@ title = "Wize AI"
   [[params.mission.item]]
     weight = 1
     name = "marketing"
-    title = "Marketing"
-    subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    title = "About us"
+    subtitle = "Bringing stellar customer experience to the market."
+    description = "<p>Wize AI designs, develops and trains custom AI chatbots and virtual agents. Chatbots and voice artificial agents are intuitive to use and can be implemented in fields like e-commerce, customer support, finance, hospitality, marketing automation etc</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "analysis"
-    title = "Resources"
+    title = "Value to you"
     subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
     description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
