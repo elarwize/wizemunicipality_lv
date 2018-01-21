@@ -85,20 +85,20 @@ title = "Wize AI"
     description = "Analysing the agents' responses to your customers. </br> Training agents and improving machine learning."
 
   [[params.services.item]]
-    icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
-  [[params.services.item]]
-    icon = "icon-rocket"
-    title = "Load Fast"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
-  [[params.services.item]]
     icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Support"
+    description = "Providing maintenance and support with the questions regarding your virtual agent."
+    
+  [[params.services.item]]
+    icon = "icon-pencil"
+    title = "Change management"
+    description = "Helping with changing the existing processes to accomodate the virtual assistants."
 
+  [[params.services.item]]
+    icon = "icon-directions"
+    title = "Integrations"
+    description = "Possibility to integrate your virtual assistant to your ERP, CRM software or a third party API."
+    
 # Work section
 [params.work]
   enable = true
