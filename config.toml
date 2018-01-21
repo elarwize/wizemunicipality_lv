@@ -147,7 +147,7 @@ title = "Wize AI"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "We are a group of innovators with many years of experience with brining automation and software to organisations."
+  description = "We are a group of innovators with many years of experience bringing automation and software to organisations."
 
   [[params.team.item]]
     name = "Marcos"
