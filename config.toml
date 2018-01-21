@@ -82,7 +82,7 @@ title = "Wize AI"
   [[params.services.item]]
     icon = "icon-magic-wand"
     title = "Machine Learning"
-    description = "Analysing the agents' responses. Training agents and improving machine learning"
+    description = "Analysing the agents' responses. </br> Training agents and improving machine learning"
 
   [[params.services.item]]
     icon = "icon-pencil"
