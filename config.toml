@@ -12,7 +12,7 @@ title = "wize ai"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Wize AI"
+  title = "wize ai"
   description = "Bringing wise artificial intelligence to organisations"
 
 # Navigation section
