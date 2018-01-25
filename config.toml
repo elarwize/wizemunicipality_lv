@@ -4,16 +4,33 @@ baseURL = "https://loving-johnson-b4b63a.netlify.com/"
 languageCode = "en-EN"
 title = "wize ai"
 
+defaultContentLanguage = "en"
+
 # Metadata
 [params]
   author = "Your name"
   description = "Virtual assistants"
 
 # Hero section (from here on is for icon theme)
-[params.hero]
-  img = "images/hero_bg.jpg"
+[languages]
+[languages.en]
+weight = 0
+title  = "My multilingual site"
+
+[languages.et]
+weight = 1
+title = "Minu mitmekeelne leht"
+
+[languages.en.hero]
+  img = "/images/hero_bg.jpg"
   title = "wize ai"
   description = "Bringing wise artificial intelligence to organisations"
+  
+# Hero section estonian (from here on is for icon theme)
+[languages.et.hero]
+  img = "/images/hero_bg.jpg"
+  title = "wize ai"
+  description = "Tark artificial intelligence ettevõtetele"
 
 # Navigation section
 [params.nav]
@@ -32,13 +49,13 @@ title = "wize ai"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "/images/img_3.jpg"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "/images/img_2.jpg"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "/images/img_1.jpg"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "/images/img_4.jpg"
 
   [[params.mission.item]]
     weight = 1
@@ -106,42 +123,42 @@ title = "wize ai"
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_1.jpg"
+    img = "/images/img_1.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_2.jpg"
+    img = "/images/img_2.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    img = "/images/img_3.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_2.jpg"
+    img = "/images/img_2.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    img = "/images/img_3.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_2.jpg"
+    img = "/images/img_2.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    img = "/images/img_3.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
-    img = "images/img_4.jpg"
+    img = "/images/img_4.jpg"
 
 # Team section
 [params.team]
@@ -153,7 +170,7 @@ title = "wize ai"
     name = "Marcos"
     position = "Founder"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person1.jpg"
+    img = "/images/person1.jpg"
     facebook = "#"
     twitter = "#"
     dribbble = "#"
@@ -165,7 +182,7 @@ title = "wize ai"
     name = "Elar"
     position = "Founder"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person2.jpg"
+    img = "/images/person2.jpg"
     facebook = "#"
     twitter = "#"
     dribbble = "#"
@@ -176,7 +193,7 @@ title = "wize ai"
     name = "Anneli"
     position = "Founder"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person3.jpg"
+    img = "/images/person3.jpg"
     facebook = "#"
     twitter = "#"
     dribbble = "#"

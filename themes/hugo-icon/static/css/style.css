@@ -1180,3 +1180,19 @@ p {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Language Menu */
+
+#language-menu { float: right; }
+#language-menu a {
+    font-size: 12px;
+    display: inline;
+    padding: 8px 6px;
+    width: 100px;
+    color: white;
+
+}
+#language-menu a:hover { color: black; }
+
+
+
