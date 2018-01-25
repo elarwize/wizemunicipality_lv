@@ -4,16 +4,33 @@ baseURL = "https://loving-johnson-b4b63a.netlify.com/"
 languageCode = "en-EN"
 title = "wize ai"
 
+defaultContentLanguage = "en"
+
 # Metadata
 [params]
   author = "Your name"
   description = "Virtual assistants"
 
 # Hero section (from here on is for icon theme)
-[params.hero]
+[languages]
+[languages.en]
+weight = 0
+title  = "My multilingual site"
+
+[languages.et]
+weight = 1
+title = "Minu mitmekeelne leht"
+
+[[languages.en.params.hero]]
   img = "images/hero_bg.jpg"
   title = "wize ai"
   description = "Bringing wise artificial intelligence to organisations"
+  
+# Hero section estonian (from here on is for icon theme)
+[[languages.et.params.hero]]
+  img = "images/hero_bg.jpg"
+  title = "wize ai"
+  description = "Tark artificial intelligence ettevõtetele"
 
 # Navigation section
 [params.nav]
