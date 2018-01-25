@@ -28,7 +28,7 @@ title = "Minu mitmekeelne leht"
   
 # Hero section estonian (from here on is for icon theme)
 [[languages.et.params.hero]]
-  img = "images/hero_bg.jpg"
+  img = "/images/hero_bg.jpg"
   title = "wize ai"
   description = "Tark artificial intelligence ettevõtetele"
 
