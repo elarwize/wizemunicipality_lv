@@ -1180,3 +1180,21 @@ p {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Language Menu */
+
+#language-menu { float: right; }
+#language-menu a {
+    display: block;
+    padding: 8px 10px;
+    width: 100px;
+
+    transition: border-left 0.3s ease-in-out;
+    border-left: 2px solid #FFF;
+}
+#language-menu a:hover { border-left: 2px solid #A00; }
+#language-menu a, #language-menu a:visited {
+    color: #333;
+}
+
+
