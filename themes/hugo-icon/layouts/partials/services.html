@@ -26,12 +26,13 @@
     <script type="application/javascript">
 
 		// Create chat panel
-		var chatPanel = window.boostChatPanel();
+		var chatPanel = window.boostChatPanel({
+		urlBase: 'https://partner3.boost.ai/',
+		});
 
 		// Open panel on click
 		document.querySelector('.bai-open-chat-btn')
 			.addEventListener('click', function () {chatPanel.show()});
-
     </script>
 
   </div>
