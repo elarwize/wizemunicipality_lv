@@ -62,21 +62,21 @@ title = "Lorem ipsum"
     name = "Lorem ipsumt"
     title = "Lorem ipsum"
     subtitle = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
-    description = "<p>Wize AI designs, develops and trains custom AI chatbots and virtual agents. Chatbots and voice agents are intuitive to use and can be implemented in fields like e-commerce, customer support, finance, hospitality, marketing automation etc. Wize AI will give you the chance to keep up with the latest technologies in the field so that you can be one of the early adopters.</p><ul class='checked'><li>Multiple platforms</li><li>Integrations with other business systems</li><li>Personal approach to your needs</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>Lorem ipsum dolor sit amet, potenti vel erat id ante, rhoncus porta proin venenatis et, lorem eget condimentum tellus, morbi massa luctus magnis. Dui et doloremque ac, et amet dictum sodales ac, massa ultrices diam in, luctus nunc condimentum venenatis in. Praesent est imperdiet adipiscing tellus, sociis magnis mauris a, ipsum eros erat malesuada a, amet semper eget in. Vel aliquet quis nibh, nulla nunc id augue.</p><ul class='checked'><li>Lorem ipsum</li><li>Lorem ipsum</li><li>Lorem ipsum</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "analysis"
     title = "Value"
     subtitle = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
-    description = "<p> </p><ul class='checked'><li>We will help your employees focus on the things they are best at.</li><li>Your team will spend less time on meaningless tasks and focus on bringing better value to your customers.</li><li>Customers will have access to 24/7 customer service.</li><li>Customers will be promted to enter all needed information so there will be less time spent on tedious long emails or calls.</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p> </p><ul class='checked'><li>Lorem ipsum dolor sit amet, potenti vel erat id ante, rhoncus porta proin venenatis et, lorem eget condimentum tellus, morbi massa luctus magnis. Dui et doloremque ac, et amet dictum sodales ac, massa ultrices diam in, luctus nunc condimentum venenatis in. Praesent est imperdiet adipiscing tellus, sociis magnis mauris a, ipsum eros erat malesuada a, amet semper eget in. Vel aliquet quis nibh, nulla nunc id augue.</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
  
  [[params.mission.item]]
     weight = 3
     name = "strategy"
     title = "Mission"
     subtitle = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
-    description = "<p>Disrupt the way people interact with virtual agents. Implement wise solutions and strategies to assure businesses use the full capacity of AI powered assistance</p><ul class='checked'><li>Early adopters</li><li>Modern tools</li><li>Value to people</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>Lorem ipsum dolor sit amet, potenti vel erat id ante, rhoncus porta proin venenatis et, lorem eget condimentum tellus, morbi massa luctus magnis. Dui et doloremque ac, et amet dictum sodales ac, massa ultrices diam in, luctus nunc condimentum venenatis in. Praesent est imperdiet adipiscing tellus, sociis magnis mauris a, ipsum eros erat malesuada a, amet semper eget in. Vel aliquet quis nibh, nulla nunc id augue.</p><ul class='checked'><li>Lorem ipsum</li><li>Lorem ipsum</li><li>Lorem ipsum</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
 [params.services]
