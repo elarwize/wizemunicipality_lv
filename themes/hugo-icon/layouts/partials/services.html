@@ -20,9 +20,20 @@
     {{ end }}
     
     <div class="col-md-12 text-center">
-      <p><a href="#" class="bai-open-chat-btn btn btn-primary btn-outline fh5co-content-nav" data-nav-section="contact">Get In Touch</a></p>
+      <p><a href="#" class="btn btn-primary btn-outline fh5co-content-nav" data-nav-section="contact">Get In Touch</a></p>
+      <p><a href="#" class="bai-open-chat-btn btn btn-primary btn-outline fh5co-content-nav" >Boost</a></p>
     </div>
-    
+    <script type="application/javascript">
+
+		// Create chat panel
+		var chatPanel = window.boostChatPanel();
+
+		// Open panel on click
+		document.querySelector('.bai-open-chat-btn')
+			.addEventListener('click', function () {chatPanel.show()});
+
+    </script>
+
   </div>
   {{ end }}
 </div> <!-- END fh5co-services -->
