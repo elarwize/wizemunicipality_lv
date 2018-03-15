@@ -2,35 +2,35 @@
 theme = "hugo-icon"
 baseURL = "https://loving-johnson-b4b63a.netlify.com/"
 languageCode = "en-EN"
-title = "wize ai"
+title = "Lorem ipsum"
 
 defaultContentLanguage = "en"
 
 # Metadata
 [params]
   author = "Your name"
-  description = "Virtual assistants"
+  description = "Lorem ipsum"
 
 # Hero section (from here on is for icon theme)
 [languages]
 [languages.en]
 weight = 0
-title  = "My multilingual site"
+title  = "Lorem ipsum"
 
 [languages.et]
 weight = 1
-title = "Minu mitmekeelne leht"
+title = "Lorem ipsum"
 
 [languages.en.hero]
   img = "/images/hero_bg.jpg"
-  title = "wize ai"
-  description = "Bringing wise artificial intelligence to organisations"
+  title = "Lorem ipsum"
+  description = "Lorem ipsum dolor sit amet"
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
   img = "/images/hero_bg.jpg"
-  title = "wize ai"
-  description = "Tark artificial intelligence ettevõtetele"
+  title = "Lorem ipsum"
+  description = "Lorem ipsum dolor sit amet"
 
 # Navigation section
 [params.nav]
@@ -59,23 +59,23 @@ title = "Minu mitmekeelne leht"
 
   [[params.mission.item]]
     weight = 1
-    name = "marketing"
-    title = "About us"
-    subtitle = "Bringing stellar customer experience to the market."
+    name = "Lorem ipsumt"
+    title = "Lorem ipsum"
+    subtitle = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
     description = "<p>Wize AI designs, develops and trains custom AI chatbots and virtual agents. Chatbots and voice agents are intuitive to use and can be implemented in fields like e-commerce, customer support, finance, hospitality, marketing automation etc. Wize AI will give you the chance to keep up with the latest technologies in the field so that you can be one of the early adopters.</p><ul class='checked'><li>Multiple platforms</li><li>Integrations with other business systems</li><li>Personal approach to your needs</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "analysis"
     title = "Value"
-    subtitle = "Bringing out the best in people."
+    subtitle = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
     description = "<p> </p><ul class='checked'><li>We will help your employees focus on the things they are best at.</li><li>Your team will spend less time on meaningless tasks and focus on bringing better value to your customers.</li><li>Customers will have access to 24/7 customer service.</li><li>Customers will be promted to enter all needed information so there will be less time spent on tedious long emails or calls.</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
  
  [[params.mission.item]]
     weight = 3
     name = "strategy"
     title = "Mission"
-    subtitle = ""
+    subtitle = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
     description = "<p>Disrupt the way people interact with virtual agents. Implement wise solutions and strategies to assure businesses use the full capacity of AI powered assistance</p><ul class='checked'><li>Early adopters</li><li>Modern tools</li><li>Value to people</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
@@ -84,37 +84,37 @@ title = "Minu mitmekeelne leht"
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "We provide a range of services for virtual agents based on different platforms according to your needs."
+  description = "Lorem ipsum dolor sit amet, a suspendisse ipsum quis erat in."
 
   [[params.services.item]]
     icon = "icon-speech"
-    title = "Conversation design"
-    description = "Mapping the needs of your customers and designing the flow of the conversation accordingly."
+    title = "Lorem ipsum"
+    description = "Vitae erat, vitae nec sed facilisis congue tincidunt, eget vel wisi ratione et dui."
 
   [[params.services.item]]
     icon = "icon-wrench"
-    title = "Agent building"
-    description = "Building the agent on the chosen platform. Giving the agent it's own character according to your companies needs."
+    title = "Lorem ipsum"
+    description = "Vitae erat, vitae nec sed facilisis congue tincidunt, eget vel wisi ratione et dui."
 
   [[params.services.item]]
     icon = "icon-magic-wand"
-    title = "Machine Learning"
-    description = "Analysing the agents' responses to your customers. </br> Training agents and improving machine learning."
+    title = "Lorem ipsum"
+    description = "Vitae erat, vitae nec sed facilisis congue tincidunt, eget vel wisi ratione et dui."
 
   [[params.services.item]]
     icon = "icon-support"
-    title = "Support"
-    description = "Providing maintenance and support with the questions regarding your virtual agent."
+    title = "Lorem ipsum"
+    description = "Vitae erat, vitae nec sed facilisis congue tincidunt, eget vel wisi ratione et dui."
     
   [[params.services.item]]
     icon = "icon-pencil"
-    title = "Change management"
-    description = "Helping with changing the existing processes to accomodate the virtual assistants."
+    title = "Lorem ipsum"
+    description = "Vitae erat, vitae nec sed facilisis congue tincidunt, eget vel wisi ratione et dui."
 
   [[params.services.item]]
     icon = "icon-directions"
-    title = "Integrations"
-    description = "Possibility to integrate your virtual assistant to your ERP, CRM software or a third party API."
+    title = "ILorem ipsum"
+    description = "Vitae erat, vitae nec sed facilisis congue tincidunt, eget vel wisi ratione et dui."
     
 # Work section
 [params.work]
@@ -122,12 +122,12 @@ title = "Minu mitmekeelne leht"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    subtitle = "Lorem ipsum"
     img = "/images/img_1.jpg"
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    subtitle = "Lorem ipsum"
     img = "/images/img_2.jpg"
 
   [[params.work.item]]
@@ -164,11 +164,11 @@ title = "Minu mitmekeelne leht"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "We are a group of innovators with many years of experience bringing automation and software to organisations."
+  description = "Lorem ipsum"
 
   [[params.team.item]]
-    name = "Marcos"
-    position = "Founder"
+    name = "Lorem"
+    position = "Lorem"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "/images/person1.jpg"
     facebook = "#"
@@ -179,8 +179,8 @@ title = "Minu mitmekeelne leht"
     linkedin = "#"
 
   [[params.team.item]]
-    name = "Elar"
-    position = "Founder"
+    name = "Lorem"
+    position = "Lorem"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "/images/person2.jpg"
     facebook = "#"
@@ -190,8 +190,8 @@ title = "Minu mitmekeelne leht"
     github = "#"
 
   [[params.team.item]]
-    name = "Anneli"
-    position = "Founder"
+    name = "Lorem"
+    position = "Lorem"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "/images/person3.jpg"
     facebook = "#"
