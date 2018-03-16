@@ -23,8 +23,8 @@ title = "Lorem ipsum"
 
 [languages.en.hero]
   img = "/images/geometric-bg-overlay-wizeblue.jpg"
-  title = "Lorem ipsum"
-  description = "Lorem ipsum dolor sit amet"
+  title = "Wize AI"
+  description = "Virtual Assistant of the future. Today."
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
