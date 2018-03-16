@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = "https://loving-johnson-b4b63a.netlify.com/"
 languageCode = "en-EN"
-title = "Lorem ipsum"
+title = "Wize AI"
 
 defaultContentLanguage = "en"
 
@@ -15,11 +15,11 @@ defaultContentLanguage = "en"
 [languages]
 [languages.en]
 weight = 0
-title  = "Lorem ipsum"
+title  = "Wize AI"
 
 [languages.et]
 weight = 1
-title = "Lorem ipsum"
+title = "Wize AI"
 
 [languages.en.hero]
   img = "/images/geometric-bg-overlay-wizeblue.jpg"
