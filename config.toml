@@ -22,13 +22,13 @@ weight = 1
 title = "Lorem ipsum"
 
 [languages.en.hero]
-  img = "/images/hero_bg.jpg"
+  img = "/images/geometric-bg-overlay-wizeblue.jpg"
   title = "Lorem ipsum"
   description = "Lorem ipsum dolor sit amet"
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
-  img = "/images/hero_bg.jpg"
+  img = "/images/geometric-bg-overlay-wizeblue.jpg"
   title = "Lorem ipsum"
   description = "Lorem ipsum dolor sit amet"
 
