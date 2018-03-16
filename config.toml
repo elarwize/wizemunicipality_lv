@@ -23,8 +23,8 @@ title = "Wize AI"
 
 [languages.en.hero]
   img = "/images/SEB-homepage.png"
-  title = "Wize AI"
-  description = "Virtual Assistant of the future. Today."
+  title = ""
+  description = ""
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
@@ -34,10 +34,10 @@ title = "Wize AI"
 
 # Navigation section
 [params.nav]
-  mission = "About us"
-  services = "Services"
-  team = "The Team"
-  contact = "Get In Touch"
+  mission = ""
+  services = ""
+  team = ""
+  contact = "Customer Service"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
 
