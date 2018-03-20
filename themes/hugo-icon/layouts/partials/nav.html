@@ -14,7 +14,7 @@
 	{{ end }}
 
 	{{ if .Site.Params.team.enable }}
-	<a href="#" data-nav-section="team">{{ with .Site.Params.nav.team }}{{ . | markdownify }}{{ end }}</a>
+	<a href="#" class="bai-open-chat-btn2">{{ with .Site.Params.nav.team }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
 
 	{{ if .Site.Params.contact.enable }}
