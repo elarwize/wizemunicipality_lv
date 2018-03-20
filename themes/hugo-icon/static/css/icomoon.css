@@ -11,7 +11,7 @@
 
 /* [class^="icon-"], [class*="icon-"] { */
 #bai-chat-widget [class^="icon-"]:before, #bai-chat-widget [class*=" icon-"]:before {
-	font-family: 'icomoon';
+	font-family: 'icomoon' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -1130,10 +1130,10 @@
 	content: "\f163";
 }
 .icon-thumbs-up:before {
-	content: "\f164";
+	content: "\f164" !important;
 }
 .icon-thumbs-down:before {
-	content: "\f165";
+	content: "\f165" !important;
 }
 .icon-youtube-square:before {
 	content: "\f166";
