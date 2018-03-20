@@ -9,7 +9,8 @@
 	font-style: normal;
 }
 
-[class^="icon-"], [class*="icon-"] {
+/* [class^="icon-"], [class*="icon-"] { */
+#bai-chat-widget [class^="icon-"]:before, #bai-chat-widget [class*=" icon-"]:before {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
