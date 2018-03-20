@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 
-[class^="icon2-"], [class*=" icon2-"] {
+[class^="icon-"], [class*=" icon-"] {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -440,12 +440,13 @@
 .icon-comments:before {
 	content: "\f086";
 }
-.icon-thumbs-o-up:before {
+/* .icon-thumbs-o-up:before {
 	content: "\f087";
 }
 .icon-thumbs-o-down:before {
 	content: "\f088";
 }
+*/
 .icon-star-half:before {
 	content: "\f089";
 }
@@ -1127,12 +1128,13 @@
 .icon-sort-numeric-desc:before {
 	content: "\f163";
 }
-.icon-thumbs-up:before {
+/*.icon-thumbs-up:before {
 	content: "\f164";
 }
 .icon-thumbs-down:before {
 	content: "\f165";
 }
+*/
 .icon-youtube-square:before {
 	content: "\f166";
 }
