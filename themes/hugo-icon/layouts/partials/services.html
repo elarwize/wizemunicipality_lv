@@ -22,6 +22,7 @@
     <div class="col-md-12 text-center">
       <p><a href="#" class="btn btn-primary btn-outline fh5co-content-nav" data-nav-section="contact">Get In Touch</a></p>
       <p><a href="#" class="bai-open-chat-btn btn btn-primary btn-outline fh5co-content-nav" >Boost</a></p>
+      <p><a href="#" class="bai-open-chat-btn2 btn btn-primary btn-outline fh5co-content-nav" >Boost2</a></p>
     </div>
     <!-- Boost chat begin -->
     <script src="https://partner3.boost.ai/js/bai-chat.js"></script>
@@ -34,6 +35,19 @@
 
 		// Open panel on click
 		document.querySelector('.bai-open-chat-btn')
+			.addEventListener('click', function () {chatPanel.show()});
+    </script>
+	  
+    <script src="https://bfdemo.boost.ai/js/bai-chat.js"></script>
+    <script type="application/javascript">
+
+		// Create chat panel
+		var chatPanel = window.boostChatPanel({
+		urlBase: 'https://bfdemo.boost.ai/',
+		});
+
+		// Open panel on click
+		document.querySelector('.bai-open-chat-btn2')
 			.addEventListener('click', function () {chatPanel.show()});
     </script>
     <!-- Boost chat end -->
