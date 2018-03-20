@@ -442,10 +442,10 @@
 	content: "\f086";
 }
 .icon-thumbs-o-up:before {
-	content: "\f087";
+	content: "\f087" !important;
 }
 .icon-thumbs-o-down:before {
-	content: "\f088";
+	content: "\f088" !important;
 }
 
 .icon-star-half:before {
