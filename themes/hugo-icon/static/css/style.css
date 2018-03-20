@@ -1196,15 +1196,20 @@ p {
 
 /*Boost*/
 .bai-window-header { color: white; }
-.icon-thumbs-up { 
-  font-family: 'icomoon';
-  content: "\f164";
+
+[class^="icon-"], [class*="icon-"] {
+	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	line-height: 1; }
-
+	line-height: 1;
+}
+.icon-thumbs-up:before {
+	content: "\f164";
+}
+.icon-thumbs-down:before {
+	content: "\f165";
 
 
