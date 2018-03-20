@@ -63,8 +63,8 @@
 .icon-check:before {
 	content: "\f00c";
 }
-.icon-close:before {
-	content: "\f00d";
+.icon-cancel:before {
+	content: "\f00d" !important;
 }
 .icon-remove:before {
 	content: "\f00d";
