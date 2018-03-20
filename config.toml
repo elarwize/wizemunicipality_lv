@@ -36,7 +36,7 @@ title = "Wize AI"
 [params.nav]
   mission = ""
   services = ""
-  team = ""
+  team = "test"
   contact = "Customer Service"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
