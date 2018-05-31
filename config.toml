@@ -22,13 +22,13 @@ weight = 1
 title = "Wize AI"
 
 [languages.en.hero]
-  img = "/images/seb-home-lat.png"
+  img = "/images/stat-home.png"
   title = ""
   description = ""
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
-  img = "/images/seb-home-lat.png"
+  img = "/images/stat-home.png"
   title = "Lorem ipsum"
   description = "Lorem ipsum dolor sit amet"
 
@@ -37,7 +37,7 @@ title = "Wize AI"
   mission = ""
   services = ""
   team = ""
-  contact = "Customer Service"
+  contact = "Klientiteenindus"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
 
