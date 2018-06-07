@@ -944,7 +944,7 @@
 	content: "\f12e";
 }
 .icon-mic:before {
-	content: "\f130";
+	content: "\f130"; !important;
 }
 .icon-microphone-slash:before {
 	content: "\f131";
