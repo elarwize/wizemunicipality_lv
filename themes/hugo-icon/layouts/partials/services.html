@@ -24,16 +24,16 @@
       <p><a href="#" class="bai-open-chat-btn btn btn-primary btn-outline fh5co-content-nav" >Boost</a></p>
     </div>
     <!-- Boost chat begin -->
-    <script src="https://partner3.boost.ai/js/bai-chat.js"></script> 
-   <!-- Boost chat v2 <script src="https://partner3.boost.ai/chatPanel/chatPanel.js"></script> -->
+     <!-- Boost chat v1  <script src="https://partner3.boost.ai/js/bai-chat.js"></script> -->
+    <script src="https://partner3.boost.ai/chatPanel/chatPanel.js"></script> 
     <script type="application/javascript">
 
 		// Create chat panel
 		var chatPanel = window.boostChatPanel({	
-		enableMic: true,		//enable mic
-		urlBase: 'https://partner3.boost.ai/',	//for old chat
+		//enableMic: true,		//enable mic
+		//urlBase: 'https://partner3.boost.ai/',	//for old chat
 
-                //apiUrlBase: 'https://partner3.boost.ai/api',  //for v2 chat
+                apiUrlBase: 'https://partner3.boost.ai/api',  //for v2 chat
 		});
 
 		// Open panel on click
