@@ -22,13 +22,13 @@ weight = 1
 title = "Wize AI"
 
 [languages.en.hero]
-  img = "/images/elisa_home.png"
+  img = "/images/telia_home.png"
   title = ""
   description = ""
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
-  img = "/images/elisa_home.png"
+  img = "/images/telia_home.png"
   title = "Lorem ipsum"
   description = "Lorem ipsum dolor sit amet"
 
