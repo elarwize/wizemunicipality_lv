@@ -28,7 +28,7 @@ title = "Wize AI"
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
-  img = "/images/geometric-bg-overlay-wizeblue.jpg"
+  img = "/images/stat_home_ee.jpg"
   title = "Lorem ipsum"
   description = "Lorem ipsum dolor sit amet"
 
