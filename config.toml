@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # Metadata
 [params]
   author = "Your name"
-  description = "Lorem ipsum"
+  description = "Virtual assistant of the future. Today"
 
 # Hero section (from here on is for icon theme)
 [languages]
