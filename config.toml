@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://loving-johnson-b4b63a.netlify.com/"
+baseURL = "https://elastic-bose-2ae3ef.netlify.com/"
 languageCode = "en-EN"
 title = "Wize AI"
 
@@ -28,7 +28,7 @@ title = "Wize AI"
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
-  img = "/images/geometric-bg-overlay-wizeblue.jpg"
+  img = "/images/tele2_loggedin.png"
   title = "Virtual assistant of the future. Today"
   description = ""
 
